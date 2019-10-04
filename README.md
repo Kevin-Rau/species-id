@@ -16,8 +16,4 @@ Jane Smith
 ## More Information
 
 More information can be found in the documentation directory, and more information on each individual application can be found in their respective directories.
-# species-id
-# species-id
-# species-id
-# species-id
-# species-id
+
